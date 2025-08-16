@@ -39,9 +39,19 @@ The goal of this project was to strengthen my data visualization & Excel skills 
 - Macros (VBA) – for filter reset functionality
 - Data Cleaning & Preprocessing
 
+## 📷 Dashboard Preview
+
+<img width="1332" height="606" alt="image" src="https://github.com/user-attachments/assets/e588f25a-29ba-435c-8e23-dc0abf3b0e55" />
+
+## 🔗 Related Links
+
+📌 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7349649465391165440/)
+
 ## 👩‍💻 Author
 
 Jia Menahil Rasheed – Data Analyst | Passionate about Excel, BI, and storytelling with data.
 
 💼 [LinkedIn](https://www.linkedin.com/in/jia-rasheed-b030962ba/) <br>
 📧 Email: jiarasheed7@gmail.com
+
+#### 👉 If you find this project interesting, feel free to ⭐ star the repo.
